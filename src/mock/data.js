@@ -25,6 +25,16 @@ export const aboutData = {
   resume: 'https://drive.google.com/file/d/1Sg5hUcw2h1PtRZVhe4i_X1-VK_jcxC4r/view?usp=sharing', // if no resume, the button will not show up
 };
 
+// TEMP DATA
+export const tempData = {
+  img: 'profile.jpg',
+  paragraphOne:
+    'Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.',
+  paragraphTwo: 'My hobbies involve dancing, riding quad bikes, listening to music and spending quality time with friends and family. ',
+  paragraphThree: 'Fun Fact: I lived in Wales, Llantwit Major, for two years.',
+  resume: 'https://drive.google.com/file/d/1Sg5hUcw2h1PtRZVhe4i_X1-VK_jcxC4r/view?usp=sharing', // if no resume, the button will not show up
+};
+
 // PROJECTS DATA
 export const projectsData = [
   {
