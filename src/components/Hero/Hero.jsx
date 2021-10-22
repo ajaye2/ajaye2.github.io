@@ -31,7 +31,7 @@ const Header = () => {
             <br />
             {/* {subtitle || "I'm the Unknown Developer."} */}
           </h1>
-          <h2 className="hero-title">
+          <h2 className="hero-subtitle">
           {subtitle || "I'm the Unknown Developer."}
           </h2>
         </Fade>

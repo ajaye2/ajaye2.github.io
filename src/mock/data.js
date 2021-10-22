@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Abubakarr Jaye',
-  subtitle: 'Software Engineer | Data Scientist | Machine Learning Engineer | Economist',
+  subtitle: 'Data Scientist | Machine Learning Engineer | Economist',
   cta: '',
 };
 
@@ -20,8 +20,8 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
     'Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.',
-  paragraphTwo: ' ',
-  paragraphThree: ' ',
+  paragraphTwo: 'My hobbies involve dancing, riding quad bikes, listening to music and spending quality time with friends and family. ',
+  paragraphThree: 'Fun Fact: I lived in Wales, Llantwit Major, for two years.',
   resume: 'https://drive.google.com/file/d/1Sg5hUcw2h1PtRZVhe4i_X1-VK_jcxC4r/view?usp=sharing', // if no resume, the button will not show up
 };
 
@@ -66,25 +66,30 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    // {
+    //   id: nanoid(),
+    //   name: 'facebook',
+    //   url: '',
+    // },
+    // {
+    //   id: nanoid(),
+    //   name: 'twitter',
+    //   url: '',
+    // },
+    // {
+    //   id: nanoid(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/abubakarr-jaye-506b83165/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/ajaye2',
     },
   ],
 };
